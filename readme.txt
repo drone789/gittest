@@ -5,3 +5,5 @@ Git is a distributed version control system.
 for free...
 
 Git is free software distributed under the GPL.
+
+Git has a mutable index
