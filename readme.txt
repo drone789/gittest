@@ -7,3 +7,6 @@ for free...
 Git is free software distributed under the GPL.
 
 Git has a mutable index
+Git tracks chages of files.
+xxxx
+oooo
